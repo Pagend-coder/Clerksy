@@ -336,15 +336,15 @@
   background-repeat: no-repeat;
 }
 
-.cards-skills__title_shield::before {
+.cards-skills__title--shield::before {
   background-image: url("../img/skills/cards-icons/shield.png");
 }
 
-.cards-skills__title_star::before {
+.cards-skills__title--star::before {
   background-image: url("../img/skills/cards-icons/star.png");
 }
 
-.cards-skills__title_lupe::before {
+.cards-skills__title--lupe::before {
   background-image: url("../img/skills/cards-icons/lupe.png");
 }
 

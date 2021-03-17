@@ -281,13 +281,13 @@
          bottom: 82px;
          background-repeat: no-repeat;
       }
-      &_shield::before {
+      &--shield::before {
          background-image: url("../img/skills/cards-icons/shield.png");
       }
-      &_star::before {
+      &--star::before {
          background-image: url("../img/skills/cards-icons/star.png");
       }
-      &_lupe::before {
+      &--lupe::before {
          background-image: url("../img/skills/cards-icons/lupe.png");
       }
    }
